@@ -1,7 +1,11 @@
-body {background-color:orange;}
-h1 {background-color: white;}
-p
-ul
-li
-img
-#slogan {font-style:italic;}
+body {
+	background-color:orange;
+}
+
+h1 {
+	background-color: white;
+}
+
+#slogan {
+	font-style:italic;
+}
