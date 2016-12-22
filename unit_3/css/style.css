@@ -17,10 +17,6 @@ h1
 	font-sizes:1.5em;
 }
 
-#contact
-{
-	font-family: 'Titillium Web', sans-serif
-}
 p
 {
 	font-family: 'Titillium Web', sans-serif
@@ -31,4 +27,10 @@ ul
 	text-align: centre;
 	list-style-type: none;
 	font-family: 'Titillium Web', sans-serif
+}
+
+#contact
+{
+	font-family: 'Titillium Web', sans-serif
+	font-size:0.5em;
 }
