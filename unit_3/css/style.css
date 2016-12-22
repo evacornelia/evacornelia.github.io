@@ -10,6 +10,12 @@ h1
 {
 	font-family: 'Cantata One', serif	
 }
+
+#sogan 
+{
+	font-family: 'Cantata One', serif	
+	font-sizes:1.5em;
+}
 p
 {
 	font-family: 'Titillium Web', sans-serif
@@ -19,4 +25,5 @@ ul
 {
 	text-align: centre;
 	list-style-type: none;
+	font-family: 'Titillium Web', sans-serif
 }
