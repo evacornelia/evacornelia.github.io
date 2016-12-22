@@ -3,9 +3,16 @@
 body 
 {
 	background-color: #fde8d2;
-	font-family: 'Cantata One', serif;
-	font-family: 'Titillium Web', sans-serif;
 	text-align: center;
+}
+
+h1
+{
+	font-family: 'Cantata One', serif	
+}
+p
+{
+	font-family: 'Titillium Web', sans-serif
 }
 
 ul 
