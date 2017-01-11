@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.comcss?family=Cantata+One|Titillium+Web');
+
+body 
+{
+	background-color: #fde8d2;
+	text-align: center;
+}
+
+h1
+{
+	font-family: 'Cantata One', serif
+	font-size: 28px;	
+}
+
+#sogan 
+{
+	font-family: 'Cantata One', serif	
+}
+
+p
+{
+	font-family: 'Titillium Web', sans-serif
+}
+
+ul 
+{
+	text-align: centre;
+	list-style-type: none;
+	font-family: 'Titillium Web', sans-serif
+}
+
+#contact
+{
+	font-family: 'Titillium Web', sans-serif
+	font-size:0.5em;
+}
+
+header {
+	background-color: #ffed74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #e8c66a;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color: #ffc675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #e89c6c;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #ff957e;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div {
+	background-color: #ffe2b8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+section {
+	background-color: #ffe2b8;
+	border: 1px black solid;
+	padding: 20px;
+}
